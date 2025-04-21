@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289333858280",
+    "project_id": "moviemind-c0f09",
+    "storage_bucket": "moviemind-c0f09.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289333858280:android:c2a918e0e7630491f81e5d",
+        "android_client_info": {
+          "package_name": "com.example.movie_recommendation_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxw4LAG5rlH4pT36My31V92Wfllh4bcdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
